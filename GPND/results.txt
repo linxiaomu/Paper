@@ -1,0 +1,2400 @@
+Class: 0
+ Percentage: 10
+Error: 0.012158
+ F1: 0.993117
+ AUC: 0.998951
+fpr95: 0.000951
+Detection: 0.012158
+auprin: 0.999884
+auprout: 0.991357
+
+Class: 0
+ Percentage: 20
+Error: 0.012217
+ F1: 0.987975
+ AUC: 0.998942
+fpr95: 0.000951
+Detection: 0.012217
+auprin: 0.999739
+auprout: 0.995878
+
+Class: 0
+ Percentage: 30
+Error: 0.012167
+ F1: 0.990281
+ AUC: 0.998949
+fpr95: 0.000951
+Detection: 0.012167
+auprin: 0.999562
+auprout: 0.997551
+
+Class: 0
+ Percentage: 40
+Error: 0.012180
+ F1: 0.989146
+ AUC: 0.998940
+fpr95: 0.000951
+Detection: 0.012180
+auprin: 0.999325
+auprout: 0.998390
+
+Class: 0
+ Percentage: 50
+Error: 0.012326
+ F1: 0.987399
+ AUC: 0.998928
+fpr95: 0.000951
+Detection: 0.012326
+auprin: 0.999001
+auprout: 0.998906
+
+Class: 1
+ Percentage: 10
+Error: 0.010788
+ F1: 0.995171
+ AUC: 0.999036
+fpr95: 0.000081
+Detection: 0.010788
+auprin: 0.999894
+auprout: 0.991183
+
+Class: 1
+ Percentage: 20
+Error: 0.010828
+ F1: 0.992031
+ AUC: 0.999038
+fpr95: 0.000081
+Detection: 0.010828
+auprin: 0.999767
+auprout: 0.995951
+
+Class: 1
+ Percentage: 30
+Error: 0.010806
+ F1: 0.990944
+ AUC: 0.999030
+fpr95: 0.000081
+Detection: 0.010806
+auprin: 0.999608
+auprout: 0.997585
+
+Class: 1
+ Percentage: 40
+Error: 0.010694
+ F1: 0.988976
+ AUC: 0.999033
+fpr95: 0.000081
+Detection: 0.010694
+auprin: 0.999410
+auprout: 0.998443
+
+Class: 1
+ Percentage: 50
+Error: 0.010828
+ F1: 0.988383
+ AUC: 0.999027
+fpr95: 0.000081
+Detection: 0.010828
+auprin: 0.999144
+auprout: 0.998952
+
+Class: 2
+ Percentage: 10
+Error: 0.100064
+ F1: 0.968729
+ AUC: 0.961669
+fpr95: 0.188998
+Detection: 0.100064
+auprin: 0.994996
+auprout: 0.830942
+
+Class: 2
+ Percentage: 20
+Error: 0.100046
+ F1: 0.954542
+ AUC: 0.961668
+fpr95: 0.188998
+Detection: 0.100046
+auprin: 0.988994
+auprout: 0.897140
+
+Class: 2
+ Percentage: 30
+Error: 0.100067
+ F1: 0.935252
+ AUC: 0.961661
+fpr95: 0.188998
+Detection: 0.100067
+auprin: 0.981641
+auprout: 0.929795
+
+Class: 2
+ Percentage: 40
+Error: 0.100029
+ F1: 0.917216
+ AUC: 0.961722
+fpr95: 0.187966
+Detection: 0.100029
+auprin: 0.972425
+auprout: 0.950236
+
+Class: 2
+ Percentage: 50
+Error: 0.100135
+ F1: 0.897084
+ AUC: 0.961643
+fpr95: 0.188998
+Detection: 0.100135
+auprin: 0.960345
+auprout: 0.964276
+
+Class: 3
+ Percentage: 10
+Error: 0.100511
+ F1: 0.973941
+ AUC: 0.966993
+fpr95: 0.196213
+Detection: 0.100511
+auprin: 0.996006
+auprout: 0.834760
+
+Class: 3
+ Percentage: 20
+Error: 0.100503
+ F1: 0.949712
+ AUC: 0.966987
+fpr95: 0.196213
+Detection: 0.100503
+auprin: 0.991249
+auprout: 0.901404
+
+Class: 3
+ Percentage: 30
+Error: 0.100539
+ F1: 0.935174
+ AUC: 0.966924
+fpr95: 0.196213
+Detection: 0.100539
+auprin: 0.985450
+auprout: 0.933713
+
+Class: 3
+ Percentage: 40
+Error: 0.100626
+ F1: 0.915996
+ AUC: 0.966903
+fpr95: 0.196213
+Detection: 0.100626
+auprin: 0.978229
+auprout: 0.953614
+
+Class: 3
+ Percentage: 50
+Error: 0.100294
+ F1: 0.896411
+ AUC: 0.967115
+fpr95: 0.196213
+Detection: 0.100294
+auprin: 0.969156
+auprout: 0.967459
+
+Class: 4
+ Percentage: 10
+Error: 0.068723
+ F1: 0.980691
+ AUC: 0.980168
+fpr95: 0.107109
+Detection: 0.068723
+auprin: 0.997495
+auprout: 0.908050
+
+Class: 4
+ Percentage: 20
+Error: 0.068704
+ F1: 0.965659
+ AUC: 0.980171
+fpr95: 0.107109
+Detection: 0.068704
+auprin: 0.994451
+auprout: 0.945808
+
+Class: 4
+ Percentage: 30
+Error: 0.068845
+ F1: 0.953215
+ AUC: 0.980147
+fpr95: 0.107109
+Detection: 0.068845
+auprin: 0.990660
+auprout: 0.963601
+
+Class: 4
+ Percentage: 40
+Error: 0.068648
+ F1: 0.940702
+ AUC: 0.980244
+fpr95: 0.106080
+Detection: 0.068648
+auprin: 0.985874
+auprout: 0.974614
+
+Class: 4
+ Percentage: 50
+Error: 0.068794
+ F1: 0.930183
+ AUC: 0.980151
+fpr95: 0.107109
+Detection: 0.068794
+auprin: 0.979386
+auprout: 0.981885
+
+Class: 5
+ Percentage: 10
+Error: 0.077208
+ F1: 0.974868
+ AUC: 0.973435
+fpr95: 0.153997
+Detection: 0.077208
+auprin: 0.996802
+auprout: 0.834864
+
+Class: 5
+ Percentage: 20
+Error: 0.077254
+ F1: 0.957303
+ AUC: 0.973423
+fpr95: 0.153997
+Detection: 0.077254
+auprin: 0.993012
+auprout: 0.907905
+
+Class: 5
+ Percentage: 30
+Error: 0.077336
+ F1: 0.943080
+ AUC: 0.973416
+fpr95: 0.153997
+Detection: 0.077336
+auprin: 0.988430
+auprout: 0.940272
+
+Class: 5
+ Percentage: 40
+Error: 0.077169
+ F1: 0.930755
+ AUC: 0.973429
+fpr95: 0.153997
+Detection: 0.077169
+auprin: 0.982765
+auprout: 0.958989
+
+Class: 5
+ Percentage: 50
+Error: 0.077273
+ F1: 0.913882
+ AUC: 0.973369
+fpr95: 0.153997
+Detection: 0.077273
+auprin: 0.975426
+auprout: 0.971295
+
+Class: 6
+ Percentage: 10
+Error: 0.025553
+ F1: 0.989546
+ AUC: 0.996625
+fpr95: 0.008716
+Detection: 0.025553
+auprin: 0.999622
+auprout: 0.974609
+
+Class: 6
+ Percentage: 20
+Error: 0.025602
+ F1: 0.981883
+ AUC: 0.996613
+fpr95: 0.008716
+Detection: 0.025602
+auprin: 0.999160
+auprout: 0.987309
+
+Class: 6
+ Percentage: 30
+Error: 0.025587
+ F1: 0.978743
+ AUC: 0.996613
+fpr95: 0.008716
+Detection: 0.025587
+auprin: 0.998586
+auprout: 0.992241
+
+Class: 6
+ Percentage: 40
+Error: 0.025553
+ F1: 0.975653
+ AUC: 0.996618
+fpr95: 0.008716
+Detection: 0.025553
+auprin: 0.997857
+auprout: 0.994891
+
+Class: 6
+ Percentage: 50
+Error: 0.025553
+ F1: 0.974092
+ AUC: 0.996615
+fpr95: 0.008716
+Detection: 0.025553
+auprin: 0.996883
+auprout: 0.996534
+
+Class: 7
+ Percentage: 10
+Error: 0.059295
+ F1: 0.981387
+ AUC: 0.988020
+fpr95: 0.077843
+Detection: 0.059295
+auprin: 0.998610
+auprout: 0.931849
+
+Class: 7
+ Percentage: 20
+Error: 0.059230
+ F1: 0.970246
+ AUC: 0.988044
+fpr95: 0.077843
+Detection: 0.059230
+auprin: 0.996932
+auprout: 0.961855
+
+Class: 7
+ Percentage: 30
+Error: 0.059266
+ F1: 0.960776
+ AUC: 0.988026
+fpr95: 0.077843
+Detection: 0.059266
+auprin: 0.994842
+auprout: 0.975286
+
+Class: 7
+ Percentage: 40
+Error: 0.059193
+ F1: 0.950590
+ AUC: 0.988051
+fpr95: 0.077843
+Detection: 0.059193
+auprin: 0.992204
+auprout: 0.983160
+
+Class: 7
+ Percentage: 50
+Error: 0.059379
+ F1: 0.936494
+ AUC: 0.988050
+fpr95: 0.077843
+Detection: 0.059379
+auprin: 0.988707
+auprout: 0.988318
+
+Class: 8
+ Percentage: 10
+Error: 0.143615
+ F1: 0.959380
+ AUC: 0.924150
+fpr95: 0.323331
+Detection: 0.143615
+auprin: 0.989887
+auprout: 0.645369
+
+Class: 8
+ Percentage: 20
+Error: 0.143536
+ F1: 0.935799
+ AUC: 0.924216
+fpr95: 0.323331
+Detection: 0.143536
+auprin: 0.978037
+auprout: 0.779960
+
+Class: 8
+ Percentage: 30
+Error: 0.143389
+ F1: 0.914077
+ AUC: 0.924346
+fpr95: 0.323331
+Detection: 0.143389
+auprin: 0.963907
+auprout: 0.848375
+
+Class: 8
+ Percentage: 40
+Error: 0.143471
+ F1: 0.891200
+ AUC: 0.924270
+fpr95: 0.323331
+Detection: 0.143471
+auprin: 0.946504
+auprout: 0.891137
+
+Class: 8
+ Percentage: 50
+Error: 0.143496
+ F1: 0.862395
+ AUC: 0.924422
+fpr95: 0.322223
+Detection: 0.143496
+auprin: 0.924665
+auprout: 0.921728
+
+Class: 9
+ Percentage: 10
+Error: 0.063489
+ F1: 0.977592
+ AUC: 0.983130
+fpr95: 0.087902
+Detection: 0.063489
+auprin: 0.998041
+auprout: 0.892851
+
+Class: 9
+ Percentage: 20
+Error: 0.063536
+ F1: 0.963417
+ AUC: 0.983142
+fpr95: 0.087902
+Detection: 0.063536
+auprin: 0.995709
+auprout: 0.941479
+
+Class: 9
+ Percentage: 30
+Error: 0.063485
+ F1: 0.954131
+ AUC: 0.983126
+fpr95: 0.088457
+Detection: 0.063485
+auprin: 0.992869
+auprout: 0.962495
+
+Class: 9
+ Percentage: 40
+Error: 0.063587
+ F1: 0.945996
+ AUC: 0.983107
+fpr95: 0.087902
+Detection: 0.063587
+auprin: 0.989321
+auprout: 0.974492
+
+Class: 9
+ Percentage: 50
+Error: 0.063546
+ F1: 0.934990
+ AUC: 0.983124
+fpr95: 0.088457
+Detection: 0.063546
+auprin: 0.984768
+auprout: 0.982392
+
+Class: 0
+ Percentage: 10
+Error: 0.012819
+ F1: 0.993775
+ AUC: 0.998718
+fpr95: 0.001189
+Detection: 0.012819
+auprin: 0.999859
+auprout: 0.988709
+
+Class: 0
+ Percentage: 20
+Error: 0.012861
+ F1: 0.991438
+ AUC: 0.998715
+fpr95: 0.001189
+Detection: 0.012861
+auprin: 0.999688
+auprout: 0.994700
+
+Class: 0
+ Percentage: 30
+Error: 0.012869
+ F1: 0.990680
+ AUC: 0.998703
+fpr95: 0.001189
+Detection: 0.012869
+auprin: 0.999474
+auprout: 0.996816
+
+Class: 0
+ Percentage: 40
+Error: 0.012762
+ F1: 0.988107
+ AUC: 0.998739
+fpr95: 0.001189
+Detection: 0.012762
+auprin: 0.999226
+auprout: 0.997991
+
+Class: 0
+ Percentage: 50
+Error: 0.012801
+ F1: 0.986876
+ AUC: 0.998720
+fpr95: 0.001189
+Detection: 0.012801
+auprin: 0.998868
+auprout: 0.998629
+
+Class: 1
+ Percentage: 10
+Error: 0.007487
+ F1: 0.995384
+ AUC: 0.999131
+fpr95: 0.000161
+Detection: 0.007487
+auprin: 0.999905
+auprout: 0.991676
+
+Class: 1
+ Percentage: 20
+Error: 0.007457
+ F1: 0.994034
+ AUC: 0.999128
+fpr95: 0.000161
+Detection: 0.007457
+auprin: 0.999792
+auprout: 0.996189
+
+Class: 1
+ Percentage: 30
+Error: 0.007482
+ F1: 0.993588
+ AUC: 0.999131
+fpr95: 0.000161
+Detection: 0.007482
+auprin: 0.999655
+auprout: 0.997764
+
+Class: 1
+ Percentage: 40
+Error: 0.007514
+ F1: 0.992991
+ AUC: 0.999137
+fpr95: 0.000161
+Detection: 0.007514
+auprin: 0.999487
+auprout: 0.998567
+
+Class: 1
+ Percentage: 50
+Error: 0.007528
+ F1: 0.992362
+ AUC: 0.999121
+fpr95: 0.000161
+Detection: 0.007528
+auprin: 0.999255
+auprout: 0.999024
+
+Class: 2
+ Percentage: 10
+Error: 0.088458
+ F1: 0.978114
+ AUC: 0.964282
+fpr95: 0.129068
+Detection: 0.088458
+auprin: 0.995171
+auprout: 0.837955
+
+Class: 2
+ Percentage: 20
+Error: 0.088457
+ F1: 0.963080
+ AUC: 0.964292
+fpr95: 0.129068
+Detection: 0.088457
+auprin: 0.989353
+auprout: 0.904335
+
+Class: 2
+ Percentage: 30
+Error: 0.088461
+ F1: 0.948956
+ AUC: 0.964290
+fpr95: 0.129068
+Detection: 0.088461
+auprin: 0.982179
+auprout: 0.934908
+
+Class: 2
+ Percentage: 40
+Error: 0.088493
+ F1: 0.931011
+ AUC: 0.964301
+fpr95: 0.129068
+Detection: 0.088493
+auprin: 0.973076
+auprout: 0.953725
+
+Class: 2
+ Percentage: 50
+Error: 0.088427
+ F1: 0.913328
+ AUC: 0.964301
+fpr95: 0.129068
+Detection: 0.088427
+auprin: 0.961083
+auprout: 0.966680
+
+Class: 3
+ Percentage: 10
+Error: 0.079218
+ F1: 0.969357
+ AUC: 0.971892
+fpr95: 0.182368
+Detection: 0.079218
+auprin: 0.996777
+auprout: 0.807203
+
+Class: 3
+ Percentage: 20
+Error: 0.079269
+ F1: 0.952040
+ AUC: 0.971900
+fpr95: 0.182368
+Detection: 0.079269
+auprin: 0.993013
+auprout: 0.893256
+
+Class: 3
+ Percentage: 30
+Error: 0.079301
+ F1: 0.938467
+ AUC: 0.971829
+fpr95: 0.182368
+Detection: 0.079301
+auprin: 0.988510
+auprout: 0.931061
+
+Class: 3
+ Percentage: 40
+Error: 0.079130
+ F1: 0.923286
+ AUC: 0.971919
+fpr95: 0.182368
+Detection: 0.079130
+auprin: 0.983107
+auprout: 0.953228
+
+Class: 3
+ Percentage: 50
+Error: 0.078891
+ F1: 0.917562
+ AUC: 0.972023
+fpr95: 0.179583
+Detection: 0.078891
+auprin: 0.976352
+auprout: 0.967717
+
+Class: 4
+ Percentage: 10
+Error: 0.068908
+ F1: 0.983819
+ AUC: 0.981253
+fpr95: 0.096580
+Detection: 0.068908
+auprin: 0.997618
+auprout: 0.911592
+
+Class: 4
+ Percentage: 20
+Error: 0.068932
+ F1: 0.970160
+ AUC: 0.981240
+fpr95: 0.096580
+Detection: 0.068932
+auprin: 0.994716
+auprout: 0.948260
+
+Class: 4
+ Percentage: 30
+Error: 0.068992
+ F1: 0.956707
+ AUC: 0.981209
+fpr95: 0.096580
+Detection: 0.068992
+auprin: 0.991094
+auprout: 0.965204
+
+Class: 4
+ Percentage: 40
+Error: 0.068978
+ F1: 0.943925
+ AUC: 0.981212
+fpr95: 0.096580
+Detection: 0.068978
+auprin: 0.986456
+auprout: 0.975576
+
+Class: 4
+ Percentage: 50
+Error: 0.069071
+ F1: 0.930901
+ AUC: 0.981111
+fpr95: 0.096580
+Detection: 0.069071
+auprin: 0.980188
+auprout: 0.982500
+
+Class: 5
+ Percentage: 10
+Error: 0.059517
+ F1: 0.979326
+ AUC: 0.980299
+fpr95: 0.078608
+Detection: 0.059517
+auprin: 0.997538
+auprout: 0.868366
+
+Class: 5
+ Percentage: 20
+Error: 0.059516
+ F1: 0.968475
+ AUC: 0.980292
+fpr95: 0.078608
+Detection: 0.059516
+auprin: 0.994609
+auprout: 0.929467
+
+Class: 5
+ Percentage: 30
+Error: 0.059633
+ F1: 0.957739
+ AUC: 0.980245
+fpr95: 0.078608
+Detection: 0.059633
+auprin: 0.991026
+auprout: 0.954788
+
+Class: 5
+ Percentage: 40
+Error: 0.059670
+ F1: 0.947580
+ AUC: 0.980306
+fpr95: 0.078608
+Detection: 0.059670
+auprin: 0.986586
+auprout: 0.969316
+
+Class: 5
+ Percentage: 50
+Error: 0.059447
+ F1: 0.936716
+ AUC: 0.980334
+fpr95: 0.078608
+Detection: 0.059447
+auprin: 0.980807
+auprout: 0.978670
+
+Class: 6
+ Percentage: 10
+Error: 0.024936
+ F1: 0.988149
+ AUC: 0.996433
+fpr95: 0.006339
+Detection: 0.024936
+auprin: 0.999603
+auprout: 0.972061
+
+Class: 6
+ Percentage: 20
+Error: 0.024948
+ F1: 0.985386
+ AUC: 0.996436
+fpr95: 0.006339
+Detection: 0.024948
+auprin: 0.999124
+auprout: 0.986246
+
+Class: 6
+ Percentage: 30
+Error: 0.024970
+ F1: 0.982074
+ AUC: 0.996436
+fpr95: 0.006339
+Detection: 0.024970
+auprin: 0.998532
+auprout: 0.991641
+
+Class: 6
+ Percentage: 40
+Error: 0.024919
+ F1: 0.977819
+ AUC: 0.996438
+fpr95: 0.006339
+Detection: 0.024919
+auprin: 0.997782
+auprout: 0.994506
+
+Class: 6
+ Percentage: 50
+Error: 0.025156
+ F1: 0.973901
+ AUC: 0.996413
+fpr95: 0.006339
+Detection: 0.025156
+auprin: 0.996775
+auprout: 0.996259
+
+Class: 7
+ Percentage: 10
+Error: 0.056889
+ F1: 0.983348
+ AUC: 0.987993
+fpr95: 0.074573
+Detection: 0.056889
+auprin: 0.998614
+auprout: 0.920005
+
+Class: 7
+ Percentage: 20
+Error: 0.056887
+ F1: 0.970877
+ AUC: 0.988003
+fpr95: 0.074573
+Detection: 0.056887
+auprin: 0.996950
+auprout: 0.957047
+
+Class: 7
+ Percentage: 30
+Error: 0.056890
+ F1: 0.963090
+ AUC: 0.988000
+fpr95: 0.074573
+Detection: 0.056890
+auprin: 0.994902
+auprout: 0.972641
+
+Class: 7
+ Percentage: 40
+Error: 0.056960
+ F1: 0.950703
+ AUC: 0.987979
+fpr95: 0.074573
+Detection: 0.056960
+auprin: 0.992303
+auprout: 0.981437
+
+Class: 7
+ Percentage: 50
+Error: 0.056787
+ F1: 0.942049
+ AUC: 0.988070
+fpr95: 0.074573
+Detection: 0.056787
+auprin: 0.988969
+auprout: 0.987354
+
+Class: 8
+ Percentage: 10
+Error: 0.123176
+ F1: 0.968401
+ AUC: 0.933525
+fpr95: 0.228723
+Detection: 0.123176
+auprin: 0.990107
+auprout: 0.753801
+
+Class: 8
+ Percentage: 20
+Error: 0.123169
+ F1: 0.949887
+ AUC: 0.933524
+fpr95: 0.228723
+Detection: 0.123169
+auprin: 0.978253
+auprout: 0.845000
+
+Class: 8
+ Percentage: 30
+Error: 0.123286
+ F1: 0.928123
+ AUC: 0.933476
+fpr95: 0.228723
+Detection: 0.123286
+auprin: 0.963723
+auprout: 0.890603
+
+Class: 8
+ Percentage: 40
+Error: 0.123164
+ F1: 0.905921
+ AUC: 0.933609
+fpr95: 0.228723
+Detection: 0.123164
+auprin: 0.945605
+auprout: 0.920154
+
+Class: 8
+ Percentage: 50
+Error: 0.123110
+ F1: 0.880395
+ AUC: 0.933540
+fpr95: 0.228723
+Detection: 0.123110
+auprin: 0.921960
+auprout: 0.941266
+
+Class: 9
+ Percentage: 10
+Error: 0.052400
+ F1: 0.980902
+ AUC: 0.987894
+fpr95: 0.059897
+Detection: 0.052400
+auprin: 0.998644
+auprout: 0.906748
+
+Class: 9
+ Percentage: 20
+Error: 0.052380
+ F1: 0.971334
+ AUC: 0.987902
+fpr95: 0.059897
+Detection: 0.052380
+auprin: 0.997049
+auprout: 0.951766
+
+Class: 9
+ Percentage: 30
+Error: 0.052531
+ F1: 0.964162
+ AUC: 0.987832
+fpr95: 0.061008
+Detection: 0.052531
+auprin: 0.995104
+auprout: 0.969798
+
+Class: 9
+ Percentage: 40
+Error: 0.052282
+ F1: 0.954899
+ AUC: 0.987936
+fpr95: 0.059897
+Detection: 0.052282
+auprin: 0.992792
+auprout: 0.980019
+
+Class: 9
+ Percentage: 50
+Error: 0.052400
+ F1: 0.945075
+ AUC: 0.987933
+fpr95: 0.059897
+Detection: 0.052400
+auprin: 0.989781
+auprout: 0.986375
+
+Class: 0
+ Percentage: 10
+Error: 0.012475
+ F1: 0.994901
+ AUC: 0.998838
+fpr95: 0.001506
+Detection: 0.012475
+auprin: 0.999871
+auprout: 0.990219
+
+Class: 0
+ Percentage: 20
+Error: 0.012474
+ F1: 0.991778
+ AUC: 0.998843
+fpr95: 0.001506
+Detection: 0.012474
+auprin: 0.999716
+auprout: 0.995398
+
+Class: 0
+ Percentage: 30
+Error: 0.012501
+ F1: 0.990064
+ AUC: 0.998843
+fpr95: 0.001506
+Detection: 0.012501
+auprin: 0.999523
+auprout: 0.997243
+
+Class: 0
+ Percentage: 40
+Error: 0.012405
+ F1: 0.989189
+ AUC: 0.998838
+fpr95: 0.001427
+Detection: 0.012405
+auprin: 0.999276
+auprout: 0.998189
+
+Class: 0
+ Percentage: 50
+Error: 0.012405
+ F1: 0.987227
+ AUC: 0.998839
+fpr95: 0.001506
+Detection: 0.012405
+auprin: 0.998949
+auprout: 0.998782
+
+Class: 1
+ Percentage: 10
+Error: 0.012479
+ F1: 0.992371
+ AUC: 0.998482
+fpr95: 0.000161
+Detection: 0.012479
+auprin: 0.999835
+auprout: 0.985005
+
+Class: 1
+ Percentage: 20
+Error: 0.012449
+ F1: 0.990840
+ AUC: 0.998476
+fpr95: 0.000161
+Detection: 0.012449
+auprin: 0.999639
+auprout: 0.993055
+
+Class: 1
+ Percentage: 30
+Error: 0.012513
+ F1: 0.989789
+ AUC: 0.998475
+fpr95: 0.000161
+Detection: 0.012513
+auprin: 0.999403
+auprout: 0.995894
+
+Class: 1
+ Percentage: 40
+Error: 0.012533
+ F1: 0.988349
+ AUC: 0.998470
+fpr95: 0.000161
+Detection: 0.012533
+auprin: 0.999107
+auprout: 0.997335
+
+Class: 1
+ Percentage: 50
+Error: 0.012398
+ F1: 0.987089
+ AUC: 0.998482
+fpr95: 0.000161
+Detection: 0.012398
+auprin: 0.998743
+auprout: 0.998230
+
+Class: 2
+ Percentage: 10
+Error: 0.084140
+ F1: 0.976820
+ AUC: 0.974193
+fpr95: 0.134942
+Detection: 0.084140
+auprin: 0.996826
+auprout: 0.862291
+
+Class: 2
+ Percentage: 20
+Error: 0.084120
+ F1: 0.961513
+ AUC: 0.974200
+fpr95: 0.134942
+Detection: 0.084120
+auprin: 0.993026
+auprout: 0.920880
+
+Class: 2
+ Percentage: 30
+Error: 0.084186
+ F1: 0.947438
+ AUC: 0.974187
+fpr95: 0.134942
+Detection: 0.084186
+auprin: 0.988369
+auprout: 0.947696
+
+Class: 2
+ Percentage: 40
+Error: 0.084246
+ F1: 0.930590
+ AUC: 0.974096
+fpr95: 0.134942
+Detection: 0.084246
+auprin: 0.982474
+auprout: 0.963470
+
+Class: 2
+ Percentage: 50
+Error: 0.084101
+ F1: 0.914288
+ AUC: 0.974200
+fpr95: 0.134942
+Detection: 0.084101
+auprin: 0.974915
+auprout: 0.974420
+
+Class: 3
+ Percentage: 10
+Error: 0.089504
+ F1: 0.970911
+ AUC: 0.968674
+fpr95: 0.170274
+Detection: 0.089504
+auprin: 0.996352
+auprout: 0.794380
+
+Class: 3
+ Percentage: 20
+Error: 0.089503
+ F1: 0.952981
+ AUC: 0.968663
+fpr95: 0.170274
+Detection: 0.089503
+auprin: 0.992083
+auprout: 0.884564
+
+Class: 3
+ Percentage: 30
+Error: 0.089593
+ F1: 0.934228
+ AUC: 0.968607
+fpr95: 0.170274
+Detection: 0.089593
+auprin: 0.986976
+auprout: 0.924913
+
+Class: 3
+ Percentage: 40
+Error: 0.089526
+ F1: 0.922853
+ AUC: 0.968627
+fpr95: 0.170274
+Detection: 0.089526
+auprin: 0.980777
+auprout: 0.948531
+
+Class: 3
+ Percentage: 50
+Error: 0.089433
+ F1: 0.910282
+ AUC: 0.968706
+fpr95: 0.170274
+Detection: 0.089433
+auprin: 0.972972
+auprout: 0.964334
+
+Class: 4
+ Percentage: 10
+Error: 0.061532
+ F1: 0.981772
+ AUC: 0.983577
+fpr95: 0.074335
+Detection: 0.061532
+auprin: 0.997926
+auprout: 0.923683
+
+Class: 4
+ Percentage: 20
+Error: 0.061501
+ F1: 0.968943
+ AUC: 0.983595
+fpr95: 0.074335
+Detection: 0.061501
+auprin: 0.995401
+auprout: 0.955370
+
+Class: 4
+ Percentage: 30
+Error: 0.061522
+ F1: 0.960599
+ AUC: 0.983608
+fpr95: 0.074335
+Detection: 0.061522
+auprin: 0.992255
+auprout: 0.970154
+
+Class: 4
+ Percentage: 40
+Error: 0.061458
+ F1: 0.950098
+ AUC: 0.983593
+fpr95: 0.074335
+Detection: 0.061458
+auprin: 0.988192
+auprout: 0.979056
+
+Class: 4
+ Percentage: 50
+Error: 0.061629
+ F1: 0.938332
+ AUC: 0.983539
+fpr95: 0.074335
+Detection: 0.061629
+auprin: 0.982735
+auprout: 0.985093
+
+Class: 5
+ Percentage: 10
+Error: 0.060062
+ F1: 0.978277
+ AUC: 0.980526
+fpr95: 0.092194
+Detection: 0.060062
+auprin: 0.997685
+auprout: 0.868636
+
+Class: 5
+ Percentage: 20
+Error: 0.060095
+ F1: 0.963275
+ AUC: 0.980496
+fpr95: 0.092194
+Detection: 0.060095
+auprin: 0.994939
+auprout: 0.929116
+
+Class: 5
+ Percentage: 30
+Error: 0.059936
+ F1: 0.954335
+ AUC: 0.980623
+fpr95: 0.092194
+Detection: 0.059936
+auprin: 0.991673
+auprout: 0.955165
+
+Class: 5
+ Percentage: 40
+Error: 0.060128
+ F1: 0.946124
+ AUC: 0.980539
+fpr95: 0.092194
+Detection: 0.060128
+auprin: 0.987542
+auprout: 0.969391
+
+Class: 5
+ Percentage: 50
+Error: 0.060154
+ F1: 0.936957
+ AUC: 0.980504
+fpr95: 0.092194
+Detection: 0.060154
+auprin: 0.982234
+auprout: 0.978776
+
+Class: 6
+ Percentage: 10
+Error: 0.017334
+ F1: 0.991156
+ AUC: 0.997397
+fpr95: 0.002615
+Detection: 0.017334
+auprin: 0.999715
+auprout: 0.976837
+
+Class: 6
+ Percentage: 20
+Error: 0.017263
+ F1: 0.988084
+ AUC: 0.997415
+fpr95: 0.002615
+Detection: 0.017263
+auprin: 0.999378
+auprout: 0.989106
+
+Class: 6
+ Percentage: 30
+Error: 0.017295
+ F1: 0.985271
+ AUC: 0.997396
+fpr95: 0.002615
+Detection: 0.017295
+auprin: 0.998960
+auprout: 0.993438
+
+Class: 6
+ Percentage: 40
+Error: 0.017326
+ F1: 0.981905
+ AUC: 0.997391
+fpr95: 0.002615
+Detection: 0.017326
+auprin: 0.998440
+auprout: 0.995722
+
+Class: 6
+ Percentage: 50
+Error: 0.017352
+ F1: 0.978944
+ AUC: 0.997399
+fpr95: 0.002615
+Detection: 0.017352
+auprin: 0.997780
+auprout: 0.997133
+
+Class: 7
+ Percentage: 10
+Error: 0.061520
+ F1: 0.980588
+ AUC: 0.985592
+fpr95: 0.086298
+Detection: 0.061520
+auprin: 0.998329
+auprout: 0.914022
+
+Class: 7
+ Percentage: 20
+Error: 0.061543
+ F1: 0.969480
+ AUC: 0.985583
+fpr95: 0.086298
+Detection: 0.061543
+auprin: 0.996315
+auprout: 0.952384
+
+Class: 7
+ Percentage: 30
+Error: 0.061568
+ F1: 0.958581
+ AUC: 0.985573
+fpr95: 0.086298
+Detection: 0.061568
+auprin: 0.993841
+auprout: 0.969284
+
+Class: 7
+ Percentage: 40
+Error: 0.061546
+ F1: 0.945916
+ AUC: 0.985587
+fpr95: 0.086298
+Detection: 0.061546
+auprin: 0.990731
+auprout: 0.979080
+
+Class: 7
+ Percentage: 50
+Error: 0.061413
+ F1: 0.936123
+ AUC: 0.985617
+fpr95: 0.086298
+Detection: 0.061413
+auprin: 0.986697
+auprout: 0.985515
+
+Class: 8
+ Percentage: 10
+Error: 0.129681
+ F1: 0.968003
+ AUC: 0.934475
+fpr95: 0.233632
+Detection: 0.129681
+auprin: 0.990741
+auprout: 0.715539
+
+Class: 8
+ Percentage: 20
+Error: 0.129681
+ F1: 0.945787
+ AUC: 0.934479
+fpr95: 0.233632
+Detection: 0.129681
+auprin: 0.979722
+auprout: 0.825283
+
+Class: 8
+ Percentage: 30
+Error: 0.129659
+ F1: 0.922462
+ AUC: 0.934480
+fpr95: 0.233632
+Detection: 0.129659
+auprin: 0.966337
+auprout: 0.879104
+
+Class: 8
+ Percentage: 40
+Error: 0.129867
+ F1: 0.901442
+ AUC: 0.934362
+fpr95: 0.233632
+Detection: 0.129867
+auprin: 0.949578
+auprout: 0.912595
+
+Class: 8
+ Percentage: 50
+Error: 0.129602
+ F1: 0.874810
+ AUC: 0.934634
+fpr95: 0.233632
+Detection: 0.129602
+auprin: 0.928325
+auprout: 0.937025
+
+Class: 9
+ Percentage: 10
+Error: 0.050527
+ F1: 0.980115
+ AUC: 0.987159
+fpr95: 0.060532
+Detection: 0.050527
+auprin: 0.998547
+auprout: 0.902301
+
+Class: 9
+ Percentage: 20
+Error: 0.050486
+ F1: 0.970318
+ AUC: 0.987174
+fpr95: 0.059976
+Detection: 0.050486
+auprin: 0.996837
+auprout: 0.949363
+
+Class: 9
+ Percentage: 30
+Error: 0.050485
+ F1: 0.962646
+ AUC: 0.987166
+fpr95: 0.059976
+Detection: 0.050485
+auprin: 0.994778
+auprout: 0.968388
+
+Class: 9
+ Percentage: 40
+Error: 0.050470
+ F1: 0.954878
+ AUC: 0.987184
+fpr95: 0.059976
+Detection: 0.050470
+auprin: 0.992252
+auprout: 0.978914
+
+Class: 9
+ Percentage: 50
+Error: 0.050615
+ F1: 0.947237
+ AUC: 0.987192
+fpr95: 0.060532
+Detection: 0.050615
+auprin: 0.989024
+auprout: 0.985601
+
+Class: 0
+ Percentage: 10
+Error: 0.015686
+ F1: 0.991611
+ AUC: 0.998131
+fpr95: 0.002299
+Detection: 0.015686
+auprin: 0.999794
+auprout: 0.984315
+
+Class: 0
+ Percentage: 20
+Error: 0.015684
+ F1: 0.987878
+ AUC: 0.998124
+fpr95: 0.002299
+Detection: 0.015684
+auprin: 0.999543
+auprout: 0.992501
+
+Class: 0
+ Percentage: 30
+Error: 0.015700
+ F1: 0.985709
+ AUC: 0.998119
+fpr95: 0.002299
+Detection: 0.015700
+auprin: 0.999230
+auprout: 0.995499
+
+Class: 0
+ Percentage: 40
+Error: 0.015694
+ F1: 0.984529
+ AUC: 0.998124
+fpr95: 0.002299
+Detection: 0.015694
+auprin: 0.998838
+auprout: 0.997070
+
+Class: 0
+ Percentage: 50
+Error: 0.015655
+ F1: 0.983839
+ AUC: 0.998143
+fpr95: 0.002299
+Detection: 0.015655
+auprin: 0.998331
+auprout: 0.998051
+
+Class: 1
+ Percentage: 10
+Error: 0.009402
+ F1: 0.996394
+ AUC: 0.999398
+fpr95: 0.000081
+Detection: 0.009402
+auprin: 0.999934
+auprout: 0.994639
+
+Class: 1
+ Percentage: 20
+Error: 0.009399
+ F1: 0.994223
+ AUC: 0.999393
+fpr95: 0.000081
+Detection: 0.009399
+auprin: 0.999852
+auprout: 0.997507
+
+Class: 1
+ Percentage: 30
+Error: 0.009385
+ F1: 0.992889
+ AUC: 0.999403
+fpr95: 0.000081
+Detection: 0.009385
+auprin: 0.999755
+auprout: 0.998551
+
+Class: 1
+ Percentage: 40
+Error: 0.009420
+ F1: 0.991339
+ AUC: 0.999392
+fpr95: 0.000081
+Detection: 0.009420
+auprin: 0.999621
+auprout: 0.999043
+
+Class: 1
+ Percentage: 50
+Error: 0.009420
+ F1: 0.990457
+ AUC: 0.999396
+fpr95: 0.000081
+Detection: 0.009420
+auprin: 0.999452
+auprout: 0.999364
+
+Class: 2
+ Percentage: 10
+Error: 0.098852
+ F1: 0.976859
+ AUC: 0.954776
+fpr95: 0.149706
+Detection: 0.098852
+auprin: 0.992922
+auprout: 0.841450
+
+Class: 2
+ Percentage: 20
+Error: 0.098815
+ F1: 0.962757
+ AUC: 0.954808
+fpr95: 0.149706
+Detection: 0.098815
+auprin: 0.984345
+auprout: 0.900652
+
+Class: 2
+ Percentage: 30
+Error: 0.098871
+ F1: 0.946880
+ AUC: 0.954781
+fpr95: 0.149706
+Detection: 0.098871
+auprin: 0.973692
+auprout: 0.929848
+
+Class: 2
+ Percentage: 40
+Error: 0.098984
+ F1: 0.927948
+ AUC: 0.954727
+fpr95: 0.149706
+Detection: 0.098984
+auprin: 0.960069
+auprout: 0.948604
+
+Class: 2
+ Percentage: 50
+Error: 0.098825
+ F1: 0.904719
+ AUC: 0.954812
+fpr95: 0.149706
+Detection: 0.098825
+auprin: 0.942124
+auprout: 0.962341
+
+Class: 3
+ Percentage: 10
+Error: 0.084567
+ F1: 0.971763
+ AUC: 0.972007
+fpr95: 0.171229
+Detection: 0.084567
+auprin: 0.996750
+auprout: 0.825559
+
+Class: 3
+ Percentage: 20
+Error: 0.084590
+ F1: 0.953652
+ AUC: 0.971981
+fpr95: 0.171229
+Detection: 0.084590
+auprin: 0.992923
+auprout: 0.901540
+
+Class: 3
+ Percentage: 30
+Error: 0.084609
+ F1: 0.937206
+ AUC: 0.971998
+fpr95: 0.169319
+Detection: 0.084609
+auprin: 0.988348
+auprout: 0.936064
+
+Class: 3
+ Percentage: 40
+Error: 0.084381
+ F1: 0.926554
+ AUC: 0.972051
+fpr95: 0.169319
+Detection: 0.084381
+auprin: 0.982769
+auprout: 0.956271
+
+Class: 3
+ Percentage: 50
+Error: 0.084341
+ F1: 0.912182
+ AUC: 0.972171
+fpr95: 0.169319
+Detection: 0.084341
+auprin: 0.975767
+auprout: 0.969740
+
+Class: 4
+ Percentage: 10
+Error: 0.088008
+ F1: 0.983161
+ AUC: 0.974481
+fpr95: 0.129512
+Detection: 0.088008
+auprin: 0.996740
+auprout: 0.899372
+
+Class: 4
+ Percentage: 20
+Error: 0.087991
+ F1: 0.966263
+ AUC: 0.974488
+fpr95: 0.129512
+Detection: 0.087991
+auprin: 0.992777
+auprout: 0.936829
+
+Class: 4
+ Percentage: 30
+Error: 0.088077
+ F1: 0.950151
+ AUC: 0.974471
+fpr95: 0.129512
+Detection: 0.088077
+auprin: 0.987840
+auprout: 0.956265
+
+Class: 4
+ Percentage: 40
+Error: 0.088030
+ F1: 0.931814
+ AUC: 0.974501
+fpr95: 0.129512
+Detection: 0.088030
+auprin: 0.981554
+auprout: 0.968755
+
+Class: 4
+ Percentage: 50
+Error: 0.087912
+ F1: 0.911765
+ AUC: 0.974494
+fpr95: 0.129512
+Detection: 0.087912
+auprin: 0.973180
+auprout: 0.977556
+
+Class: 5
+ Percentage: 10
+Error: 0.067409
+ F1: 0.978414
+ AUC: 0.978216
+fpr95: 0.095335
+Detection: 0.067409
+auprin: 0.997320
+auprout: 0.868142
+
+Class: 5
+ Percentage: 20
+Error: 0.067438
+ F1: 0.964833
+ AUC: 0.978212
+fpr95: 0.095335
+Detection: 0.067438
+auprin: 0.994122
+auprout: 0.927497
+
+Class: 5
+ Percentage: 30
+Error: 0.067458
+ F1: 0.957965
+ AUC: 0.978166
+fpr95: 0.095335
+Detection: 0.067458
+auprin: 0.990203
+auprout: 0.952870
+
+Class: 5
+ Percentage: 40
+Error: 0.067339
+ F1: 0.944251
+ AUC: 0.978255
+fpr95: 0.095335
+Detection: 0.067339
+auprin: 0.985351
+auprout: 0.967772
+
+Class: 5
+ Percentage: 50
+Error: 0.067418
+ F1: 0.932545
+ AUC: 0.978197
+fpr95: 0.095335
+Detection: 0.067418
+auprin: 0.978944
+auprout: 0.977385
+
+Class: 6
+ Percentage: 10
+Error: 0.019835
+ F1: 0.992322
+ AUC: 0.997812
+fpr95: 0.004675
+Detection: 0.019835
+auprin: 0.999757
+auprout: 0.982056
+
+Class: 6
+ Percentage: 20
+Error: 0.019858
+ F1: 0.989209
+ AUC: 0.997808
+fpr95: 0.004675
+Detection: 0.019858
+auprin: 0.999462
+auprout: 0.991310
+
+Class: 6
+ Percentage: 30
+Error: 0.019854
+ F1: 0.986256
+ AUC: 0.997802
+fpr95: 0.004675
+Detection: 0.019854
+auprin: 0.999096
+auprout: 0.994736
+
+Class: 6
+ Percentage: 40
+Error: 0.019835
+ F1: 0.982579
+ AUC: 0.997815
+fpr95: 0.004675
+Detection: 0.019835
+auprin: 0.998638
+auprout: 0.996575
+
+Class: 6
+ Percentage: 50
+Error: 0.019729
+ F1: 0.979267
+ AUC: 0.997832
+fpr95: 0.004041
+Detection: 0.019729
+auprin: 0.998041
+auprout: 0.997708
+
+Class: 7
+ Percentage: 10
+Error: 0.070262
+ F1: 0.981561
+ AUC: 0.983528
+fpr95: 0.102090
+Detection: 0.070262
+auprin: 0.998064
+auprout: 0.912521
+
+Class: 7
+ Percentage: 20
+Error: 0.070296
+ F1: 0.966609
+ AUC: 0.983540
+fpr95: 0.102090
+Detection: 0.070296
+auprin: 0.995727
+auprout: 0.949666
+
+Class: 7
+ Percentage: 30
+Error: 0.070409
+ F1: 0.953135
+ AUC: 0.983509
+fpr95: 0.102090
+Detection: 0.070409
+auprin: 0.992826
+auprout: 0.966878
+
+Class: 7
+ Percentage: 40
+Error: 0.070227
+ F1: 0.942212
+ AUC: 0.983563
+fpr95: 0.102090
+Detection: 0.070227
+auprin: 0.989197
+auprout: 0.977203
+
+Class: 7
+ Percentage: 50
+Error: 0.070546
+ F1: 0.929157
+ AUC: 0.983510
+fpr95: 0.102090
+Detection: 0.070546
+auprin: 0.984343
+auprout: 0.984012
+
+Class: 8
+ Percentage: 10
+Error: 0.129197
+ F1: 0.967642
+ AUC: 0.928400
+fpr95: 0.230544
+Detection: 0.129197
+auprin: 0.989171
+auprout: 0.753569
+
+Class: 8
+ Percentage: 20
+Error: 0.129206
+ F1: 0.947089
+ AUC: 0.928392
+fpr95: 0.230544
+Detection: 0.129206
+auprin: 0.976219
+auprout: 0.841724
+
+Class: 8
+ Percentage: 30
+Error: 0.129184
+ F1: 0.925832
+ AUC: 0.928438
+fpr95: 0.230544
+Detection: 0.129184
+auprin: 0.960428
+auprout: 0.887301
+
+Class: 8
+ Percentage: 40
+Error: 0.129299
+ F1: 0.903169
+ AUC: 0.928349
+fpr95: 0.230544
+Detection: 0.129299
+auprin: 0.940573
+auprout: 0.916953
+
+Class: 8
+ Percentage: 50
+Error: 0.129285
+ F1: 0.873690
+ AUC: 0.928287
+fpr95: 0.240836
+Detection: 0.129285
+auprin: 0.914941
+auprout: 0.938592
+
+Class: 9
+ Percentage: 10
+Error: 0.044356
+ F1: 0.981015
+ AUC: 0.988056
+fpr95: 0.043633
+Detection: 0.044356
+auprin: 0.998672
+auprout: 0.902775
+
+Class: 9
+ Percentage: 20
+Error: 0.044357
+ F1: 0.971687
+ AUC: 0.988057
+fpr95: 0.043633
+Detection: 0.044357
+auprin: 0.997118
+auprout: 0.950314
+
+Class: 9
+ Percentage: 30
+Error: 0.044303
+ F1: 0.965782
+ AUC: 0.988098
+fpr95: 0.043633
+Detection: 0.044303
+auprin: 0.995278
+auprout: 0.969373
+
+Class: 9
+ Percentage: 40
+Error: 0.044547
+ F1: 0.959747
+ AUC: 0.987970
+fpr95: 0.044268
+Detection: 0.044547
+auprin: 0.992950
+auprout: 0.979406
+
+Class: 9
+ Percentage: 50
+Error: 0.044347
+ F1: 0.953562
+ AUC: 0.988095
+fpr95: 0.044268
+Detection: 0.044347
+auprin: 0.990164
+auprout: 0.986120
+
+Class: 0
+ Percentage: 10
+Error: 0.019270
+ F1: 0.991710
+ AUC: 0.997482
+fpr95: 0.005311
+Detection: 0.019270
+auprin: 0.999722
+auprout: 0.978574
+
+Class: 0
+ Percentage: 20
+Error: 0.019311
+ F1: 0.987710
+ AUC: 0.997482
+fpr95: 0.005311
+Detection: 0.019311
+auprin: 0.999388
+auprout: 0.989721
+
+Class: 0
+ Percentage: 30
+Error: 0.019290
+ F1: 0.984146
+ AUC: 0.997469
+fpr95: 0.005311
+Detection: 0.019290
+auprin: 0.998975
+auprout: 0.993772
+
+Class: 0
+ Percentage: 40
+Error: 0.019222
+ F1: 0.982228
+ AUC: 0.997506
+fpr95: 0.005311
+Detection: 0.019222
+auprin: 0.998479
+auprout: 0.995990
+
+Class: 0
+ Percentage: 50
+Error: 0.019182
+ F1: 0.979984
+ AUC: 0.997506
+fpr95: 0.005311
+Detection: 0.019182
+auprin: 0.997815
+auprout: 0.997293
+
+Class: 1
+ Percentage: 10
+Error: 0.013780
+ F1: 0.991977
+ AUC: 0.998299
+fpr95: 0.000242
+Detection: 0.013780
+auprin: 0.999815
+auprout: 0.983828
+
+Class: 1
+ Percentage: 20
+Error: 0.013817
+ F1: 0.990707
+ AUC: 0.998295
+fpr95: 0.000242
+Detection: 0.013817
+auprin: 0.999594
+auprout: 0.992495
+
+Class: 1
+ Percentage: 30
+Error: 0.013813
+ F1: 0.988938
+ AUC: 0.998283
+fpr95: 0.000322
+Detection: 0.013813
+auprin: 0.999323
+auprout: 0.995518
+
+Class: 1
+ Percentage: 40
+Error: 0.013794
+ F1: 0.987403
+ AUC: 0.998295
+fpr95: 0.000322
+Detection: 0.013794
+auprin: 0.998998
+auprout: 0.997118
+
+Class: 1
+ Percentage: 50
+Error: 0.013807
+ F1: 0.986071
+ AUC: 0.998300
+fpr95: 0.000242
+Detection: 0.013807
+auprin: 0.998579
+auprout: 0.998076
+
+Class: 2
+ Percentage: 10
+Error: 0.111839
+ F1: 0.975191
+ AUC: 0.945291
+fpr95: 0.185744
+Detection: 0.111839
+auprin: 0.991639
+auprout: 0.808245
+
+Class: 2
+ Percentage: 20
+Error: 0.111833
+ F1: 0.953784
+ AUC: 0.945291
+fpr95: 0.185744
+Detection: 0.111833
+auprin: 0.981540
+auprout: 0.878109
+
+Class: 2
+ Percentage: 30
+Error: 0.111838
+ F1: 0.935024
+ AUC: 0.945294
+fpr95: 0.185744
+Detection: 0.111838
+auprin: 0.969082
+auprout: 0.913551
+
+Class: 2
+ Percentage: 40
+Error: 0.111579
+ F1: 0.916300
+ AUC: 0.945417
+fpr95: 0.185744
+Detection: 0.111579
+auprin: 0.953345
+auprout: 0.936853
+
+Class: 2
+ Percentage: 50
+Error: 0.111803
+ F1: 0.888823
+ AUC: 0.945313
+fpr95: 0.185744
+Detection: 0.111803
+auprin: 0.932564
+auprout: 0.953397
+
+Class: 3
+ Percentage: 10
+Error: 0.079218
+ F1: 0.969519
+ AUC: 0.972159
+fpr95: 0.159532
+Detection: 0.079218
+auprin: 0.996784
+auprout: 0.815540
+
+Class: 3
+ Percentage: 20
+Error: 0.079309
+ F1: 0.953896
+ AUC: 0.972112
+fpr95: 0.159532
+Detection: 0.079309
+auprin: 0.993009
+auprout: 0.897213
+
+Class: 3
+ Percentage: 30
+Error: 0.079045
+ F1: 0.937241
+ AUC: 0.972227
+fpr95: 0.151178
+Detection: 0.079045
+auprin: 0.988565
+auprout: 0.933877
+
+Class: 3
+ Percentage: 40
+Error: 0.079169
+ F1: 0.932460
+ AUC: 0.972246
+fpr95: 0.151178
+Detection: 0.079169
+auprin: 0.983109
+auprout: 0.954985
+
+Class: 3
+ Percentage: 50
+Error: 0.078970
+ F1: 0.916208
+ AUC: 0.972261
+fpr95: 0.151178
+Detection: 0.078970
+auprin: 0.976263
+auprout: 0.968722
+
+Class: 4
+ Percentage: 10
+Error: 0.067505
+ F1: 0.984095
+ AUC: 0.982281
+fpr95: 0.094205
+Detection: 0.067505
+auprin: 0.997767
+auprout: 0.917049
+
+Class: 4
+ Percentage: 20
+Error: 0.067497
+ F1: 0.970564
+ AUC: 0.982288
+fpr95: 0.094205
+Detection: 0.067497
+auprin: 0.995051
+auprout: 0.951354
+
+Class: 4
+ Percentage: 30
+Error: 0.067364
+ F1: 0.958981
+ AUC: 0.982353
+fpr95: 0.093176
+Detection: 0.067364
+auprin: 0.991695
+auprout: 0.967560
+
+Class: 4
+ Percentage: 40
+Error: 0.067461
+ F1: 0.944952
+ AUC: 0.982289
+fpr95: 0.094205
+Detection: 0.067461
+auprin: 0.987326
+auprout: 0.977153
+
+Class: 4
+ Percentage: 50
+Error: 0.067646
+ F1: 0.930701
+ AUC: 0.982255
+fpr95: 0.094205
+Detection: 0.067646
+auprin: 0.981510
+auprout: 0.983757
+
+Class: 5
+ Percentage: 10
+Error: 0.072195
+ F1: 0.979181
+ AUC: 0.978629
+fpr95: 0.096670
+Detection: 0.072195
+auprin: 0.997308
+auprout: 0.887946
+
+Class: 5
+ Percentage: 20
+Error: 0.072218
+ F1: 0.965060
+ AUC: 0.978619
+fpr95: 0.096670
+Detection: 0.072218
+auprin: 0.994061
+auprout: 0.936201
+
+Class: 5
+ Percentage: 30
+Error: 0.072282
+ F1: 0.954885
+ AUC: 0.978583
+fpr95: 0.098162
+Detection: 0.072282
+auprin: 0.990044
+auprout: 0.957865
+
+Class: 5
+ Percentage: 40
+Error: 0.072326
+ F1: 0.943429
+ AUC: 0.978534
+fpr95: 0.098162
+Detection: 0.072326
+auprin: 0.984939
+auprout: 0.970648
+
+Class: 5
+ Percentage: 50
+Error: 0.072130
+ F1: 0.926087
+ AUC: 0.978662
+fpr95: 0.096670
+Detection: 0.072130
+auprin: 0.978354
+auprout: 0.979466
+
+Class: 6
+ Percentage: 10
+Error: 0.033885
+ F1: 0.987048
+ AUC: 0.995479
+fpr95: 0.021789
+Detection: 0.033885
+auprin: 0.999493
+auprout: 0.966985
+
+Class: 6
+ Percentage: 20
+Error: 0.033842
+ F1: 0.981957
+ AUC: 0.995488
+fpr95: 0.021789
+Detection: 0.033842
+auprin: 0.998881
+auprout: 0.983247
+
+Class: 6
+ Percentage: 30
+Error: 0.033866
+ F1: 0.977206
+ AUC: 0.995494
+fpr95: 0.021789
+Detection: 0.033866
+auprin: 0.998123
+auprout: 0.989687
+
+Class: 6
+ Percentage: 40
+Error: 0.033952
+ F1: 0.971179
+ AUC: 0.995491
+fpr95: 0.022264
+Detection: 0.033952
+auprin: 0.997151
+auprout: 0.993164
+
+Class: 6
+ Percentage: 50
+Error: 0.033714
+ F1: 0.965809
+ AUC: 0.995523
+fpr95: 0.021789
+Detection: 0.033714
+auprin: 0.995898
+auprout: 0.995376
+
+Class: 7
+ Percentage: 10
+Error: 0.057891
+ F1: 0.983556
+ AUC: 0.988184
+fpr95: 0.076009
+Detection: 0.057891
+auprin: 0.998638
+auprout: 0.929185
+
+Class: 7
+ Percentage: 20
+Error: 0.057934
+ F1: 0.971204
+ AUC: 0.988179
+fpr95: 0.076009
+Detection: 0.057934
+auprin: 0.996990
+auprout: 0.960990
+
+Class: 7
+ Percentage: 30
+Error: 0.057961
+ F1: 0.960184
+ AUC: 0.988165
+fpr95: 0.076009
+Detection: 0.057961
+auprin: 0.994952
+auprout: 0.974930
+
+Class: 7
+ Percentage: 40
+Error: 0.058050
+ F1: 0.950597
+ AUC: 0.988138
+fpr95: 0.076009
+Detection: 0.058050
+auprin: 0.992355
+auprout: 0.982916
+
+Class: 7
+ Percentage: 50
+Error: 0.057705
+ F1: 0.940539
+ AUC: 0.988245
+fpr95: 0.076009
+Detection: 0.057705
+auprin: 0.989058
+auprout: 0.988286
+

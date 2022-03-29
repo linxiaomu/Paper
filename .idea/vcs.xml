@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Clustering-MNIST" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Deep-Neural-Network-for-Clustering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LSCP" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Variational-Lstm-Autoencoder" vcs="Git" />
+  </component>
+</project>
